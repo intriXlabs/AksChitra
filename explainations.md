@@ -1,0 +1,1 @@
+- stateless char rendering: is a technique used in graphics programming to render characters on the screen without maintaining any state information about the characters. In this approach, each character is rendered independently, and the rendering process does not rely on any previous state or context.
